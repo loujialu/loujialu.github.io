@@ -137,6 +137,9 @@
 .jd_nav ul{
     width: 100%;
 }
+li{
+    list-style:none;
+}
 .jd_nav ul li{
     width: 25%;
     height: 69px;
